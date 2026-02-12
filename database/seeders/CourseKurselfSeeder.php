@@ -42,7 +42,7 @@ class CourseKurSelfSeeder extends Seeder
                 <p><a href="https://drive.google.com/file/d/1hatQ1ddG66OimGK3o-szMUnl2p_B3S6s/view?usp=sharing" target="_blank" class="text-blue-600 underline">Training of trainer : 🎥video1070262103.mp4 00.00 - 01.00</a></p>',
             'parent_id' => $subbab1->id,
         ]);
-        
+
 
         $subbab1 = CourseKurself::create([
             'title' => 'Know Yourself',
@@ -102,7 +102,7 @@ class CourseKurSelfSeeder extends Seeder
             'parent_id' => $bab2->id,
         ]);
 
-        
+
 
         $subbab2 = CourseKurself::create([
             'title' => 'Active Learning & Learning Strategies',
@@ -170,7 +170,7 @@ class CourseKurSelfSeeder extends Seeder
                 Hal tersebut bisa jadi adalah dampak dari perspektif sosial-budaya dimana masyarakat seringnya memberikan penghargaan atas hasil, bukan proses. Laki-laki cenderung dipuji setelah sukses, bukan ketika sedang berjuang. Maka mereka belajar menyembunyikan prosesnya dan akan muncul ketika hasilnya dapat dipamerkan.
             </p>
             <p>
-                Selain hal tersebut, kurangnya role model yang ekspresif, figur laki-laki di sekitar siswa juga bisa jadi pendiam, sibuk bekerja dan jarang menunjukkan sisi reflektif. Sehingga mereka tidak memiliki teladan bagaimana menyampaikan kekuatan, meminta bantuan, tanpa kehilangan harga diri. 
+                Selain hal tersebut, kurangnya role model yang ekspresif, figur laki-laki di sekitar siswa juga bisa jadi pendiam, sibuk bekerja dan jarang menunjukkan sisi reflektif. Sehingga mereka tidak memiliki teladan bagaimana menyampaikan kekuatan, meminta bantuan, tanpa kehilangan harga diri.
                 Maka menjadi penting untuk membangun budaya support system yang nyaman, membiasakan budaya refleksi, membangun teamwork yang terbuka dan menuntut kolaborasi dengan komunikasi emosional.
             </p>
             <p>
@@ -183,12 +183,12 @@ class CourseKurSelfSeeder extends Seeder
                 Di akhir materi sebagai refleksi minta siswa untuk memvisualkan tokoh yang telah membantu hidup kita sampai saat ini. Minta tuliskan dari keluarga dan dari luar keluarga, bisa juga disampaikan di lingkungan SMK TI BAZMA sebagai bentuk insight untuk meningkatkan kualitas kenyamanan pembelajaran.
             </p>
             <p>
-                <a 
+                <a
                     href="https://docs.google.com/presentation/d/1ptYsWyzYgcBWNwWS-6onyi4B8PPu7xAg/edit?usp=sharing&ouid=102587695286882410911&rtpof=true&sd=true" target="_blank" class="text-blue-600 underline">📄 Power Point: 11 Makhluk Sosial.pptx
                 </a>
             </p>
             <p>
-                <a 
+                <a
                     href="https://drive.google.com/file/d/1yVoptP6m0kYURiZbtisrc0ZgnfAV-748/view?usp=sharing" target="_blank" class="text-blue-600 underline">🎥 Training of Trainer: video1144044832.mp4 00.00 - 37.00
                 </a>
             </p>',
@@ -281,7 +281,7 @@ class CourseKurSelfSeeder extends Seeder
         ]);
 
         CourseKurself::create([
-            'title' => 'Permainan Interkatif: Tone Switch Challenge',
+            'title' => 'Permainan Interaktif: Tone Switch Challenge',
             'slug' => 'tone-switch-challenge',
             'order' => 14,
             'section' => 'bab-3',
@@ -435,7 +435,7 @@ class CourseKurSelfSeeder extends Seeder
             </ol>
 
             <p>
-                <a 
+                <a
                     href="https://docs.google.com/presentation/d/1k43jkdr13S5gFYM0QUkqR1y57FpS2n9_/edit?usp=drive_link&ouid=102587695286882410911&rtpof=true&sd=true" target="_blank" class="text-blue-600 underline">
                     Power Point : 📄14 Interpersonal Skill.pptx
                 </a>
